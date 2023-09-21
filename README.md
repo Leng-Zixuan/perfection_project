@@ -1,2 +1,3 @@
 # perfection_project
-The ultimate list of front-end engineering optimizations
+
+Explore front-end performance best practices through the most extreme optimizations
